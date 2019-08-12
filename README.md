@@ -1,3 +1,7 @@
+tic-tac-toe
+===========
+A tic-tac-toe example app from react.js web docs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
